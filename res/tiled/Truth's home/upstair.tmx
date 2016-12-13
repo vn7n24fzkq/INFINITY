@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="30" tilewidth="4" tileheight="4" nextobjectid="1">
+ <tileset firstgid="1" name="town" tilewidth="4" tileheight="4" tilecount="16384" columns="128">
+  <image source="../Test/town.png" trans="ff00ff" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="16385" name="town" tilewidth="4" tileheight="4" tilecount="16384" columns="128">
+  <image source="town.png" trans="ff00ff" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="32769" name="obj_misk_atlas" tilewidth="4" tileheight="4" tilecount="65536" columns="256">
+  <image source="obj_misk_atlas.png" trans="ff00ff" width="1024" height="1024"/>
+ </tileset>
+ <tileset firstgid="98305" name="trees_plants_rocks" tilewidth="4" tileheight="4" tilecount="16384" columns="128">
+  <image source="trees_plants_rocks.png" trans="ff00ff" width="512" height="512"/>
+ </tileset>
+ <layer name="background" width="50" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt2DkOwjAQRmFzHLLchauGNZDMQNjOxSujSCAXRGjQX3ydZ+TXuPCwSumKG+544IkGa2ywxQ57HNDiiBM69DA4zrhgmGHvpx3vdk5ncu+Rey63I3efOtQRqaNbLlIPgyNsR0EHDF4E7ijpgMHLwB0VHTB4FbijpgMGr+N2/Mt7pQ51qEMd6lCHOn7fMb2TOtShDnWoQx3juTn+k7/5T5079wJcTwjS
+  </data>
+ </layer>
+ <layer name="goods" width="50" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztkzEOgjAUhrt6AAdA4+4RUNCryOpJvIGDJ+jmKKLlaD7Ca6yVpkXxGZL3JV8YWPpRfiEYhmEYhmEYhmH+w2Tu99ec9359HGZCpFHrClyDGZiDm6h9T9Gx3LkN7bjEzxbTOqbrkHhmadmno6uhcZsQ3keB37+wHKAjJfyvJJ65eZr26khezdGU8j4G2Ic+fwlWoDJaRrUPbCixQRktVB2nqWMfRXhHV4N2TPtwNVB26C3os3+yD1dHSbwPqe/D2kifjmP2LmWH3oL8Zh8LIa5gBd7AO6hQyn24DOkYKw90vqhF
+  </data>
+ </layer>
+ <layer name="solids" width="50" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztzwENACAMwDBsIumusVGeNZmAzT1nlvS7Pix9WPqw9GHpw9KHpQ9LH5Y+LH1Y+rD0YenDsu1jQw83hYm5
+  </data>
+ </layer>
+ <layer name="platform" width="50" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20IX6AAAAAAAIDXABdwAAE=
+  </data>
+ </layer>
+ <layer name="foreground" width="50" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20IX6AAAAAAAIDXABdwAAE=
+  </data>
+ </layer>
+</map>

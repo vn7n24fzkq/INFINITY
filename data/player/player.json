@@ -1,0 +1,28 @@
+{
+  "JumpRight": "JumpRight.png",
+  "Z_AttackLeft": "Z_AttackLeft.png",
+  "AnimationName": [
+    "StandRight",
+    "StandLeft",
+    "WalkRight",
+    "WalkLeft",
+    "JumpRight",
+    "JumpLeft",
+    "Z_AttackRight",
+    "Z_AttackLeft",
+    "X_AttackRight",
+    "X_AttackLeft",
+    "HurtRight",
+    "HurtLeft"
+  ],
+  "WalkLeft": "WalkLeft.png",
+  "X_AttackLeft": "X_AttackLeft.png",
+  "HurtLeft": "HurtLeft.png",
+  "JumpLeft": "JumpLeft.png",
+  "StandRight": "StandRight.png",
+  "StandLeft": "StandLeft.png",
+  "Z_AttackRight": "Z_AttackRight.png",
+  "WalkRight": "WalkRight.png",
+  "X_AttackRight": "X_AttackRight.png",
+  "HurtRight": "HurtRight.png"
+}

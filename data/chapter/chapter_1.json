@@ -1,0 +1,21 @@
+{
+  "ChapterName": " chapter 1 ",
+  "MapName": "test.tmx",
+  "MapPic":"test_map.png",
+  "MapPolar": {"x":0,"y":0},
+  "MapBackName":"test_back.png",
+  "MapBackPolar": {"x":640,"y":480},
+  "PlayerPolar": {"x":50,"y":250},
+  
+  "entity": {
+  "monster": {
+    "x": "20",
+    "y": "20"
+  }
+  
+  ,
+  "solid":{
+    
+  }
+  }
+}

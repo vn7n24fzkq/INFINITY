@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="30" tilewidth="4" tileheight="4" nextobjectid="1">
+ <tileset firstgid="1" name="town" tilewidth="4" tileheight="4" tilecount="16384" columns="128">
+  <image source="town.png" trans="ff00ff" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="16385" name="town" tilewidth="4" tileheight="4" tilecount="16384" columns="128">
+  <image source="town.png" trans="ff00ff" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="32769" name="obj_misk_atlas" tilewidth="4" tileheight="4" tilecount="65536" columns="256">
+  <image source="obj_misk_atlas.png" trans="ff00ff" width="1024" height="1024"/>
+ </tileset>
+ <tileset firstgid="98305" name="trees_plants_rocks" tilewidth="4" tileheight="4" tilecount="16384" columns="128">
+  <image source="trees_plants_rocks.png" trans="ff00ff" width="512" height="512"/>
+ </tileset>
+ <layer name="background" width="50" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3YOQ7CMBBGYXMcstyFq4Y1kMxA2M7FK6NIIBdEaNBffJ1n5Ne48LBK6Yob7njgiQZrbLDFDnsc0OKIEzr0MDjOuGCYYe+nHe92Tmdy75F7Lrcjd5861BGpo1suUg+DI2xHQQcMXgTuKOmAwcvAHRUdMHgVuKOmAwav43b8y3ulDnWoQx3qUIc6ft8xvZM61KEOdahDHeO5Of6Tv/lPnTv3AuezSfBwFwAA
+  </data>
+ </layer>
+ <layer name="goods" width="50" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+2TMQ6CMBSGu3oAB0Dj7hFQ0KvI6km8gYMn6OYoouVoPsJrrJWmRfEZkvclXxhY+lF+IRiGYRiGYRiGYf7DZO7315z3fn0cZkKkUesKXIMZmIObqH1P0bHcuQ3tuMTPFtM6puuQeGZp2aejq6FxmxDeR4Hfv7AcoCMl/K8knrl5mvbqSF7N0ZTyPgbYhz5/CVagMlpGtQ9sKLFBGS1UHaepYx9FeEdXg3ZM+3A1UHboLeizf7IPV0dJvA+p78PaSJ+OY/YuZYfegvxmHwshrmAF3sA7qFDKfbgM6RgrD7fEtnhwFwAA
+  </data>
+ </layer>
+ <layer name="solids" width="50" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3PAQ0AIAzAMGwi6a6xUZ41mYDNPWeW9Ls+LH1Y+rD0YenD0oelD0sflj4sfVj6sPRh6cOy7WNDDwuPRY1wFwAA
+  </data>
+ </layer>
+ <layer name="platform" width="50" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3BMQEAAADCoPVPbQhfoAAAAAAAgNcAxA3c/HAXAAA=
+  </data>
+ </layer>
+ <layer name="foreground" width="50" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3BMQEAAADCoPVPbQhfoAAAAAAAgNcAxA3c/HAXAAA=
+  </data>
+ </layer>
+</map>

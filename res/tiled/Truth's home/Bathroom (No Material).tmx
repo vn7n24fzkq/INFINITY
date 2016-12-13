@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="30" tilewidth="4" tileheight="4" nextobjectid="1">
+ <tileset firstgid="1" name="town" tilewidth="4" tileheight="4" tilecount="16384" columns="128">
+  <image source="../Test/town.png" trans="ff00ff" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="16385" name="obj_misk_atlas" tilewidth="4" tileheight="4" tilecount="65536" columns="256">
+  <image source="../Test/obj_misk_atlas.png" trans="ff00ff" width="1024" height="1024"/>
+ </tileset>
+ <layer name="圖塊層 1" width="50" height="30">
+  <data encoding="base64" compression="zlib">
+   eJyt2EeKJEEMBdA+wbSpa9aU9+7E5b1nXi8Gch3S4oFWn4gEkQrV/3x8/KVBkxZtOnTp0WfAkBFjJkyZMWdBvSBryYo1G7bs2HPgyIkzF67cuPPgySsx512YVf90dxo0adGmQ5cefQYMGTFmwpQZ88+8nEVh1pIVazZs2bHnwJETZy5cuXHnwZNXYs67MKv+5e40aNKiTYcuPfoMGDJizIQpM+ZfeTmLwqwlK9Zs2LJjz4EjJ85cuHLjzoMnr8Scd2FW/dvdadCkRZsOXXr0GTBkxJgJU2bMv/NyFoVZS1as2bBlx54DR06cuXDlxp0HT16JOe/CrPqPu9OgSYs2Hbr06DNgyIgxE6bMmP/k5SwKs5asWLNhy449B46cOHPhyo07D568EnPehVn1mrvToEmLNh269OgzYMiIMROmzJjX8nIWhVlLVqzZsGXHngNHTpy5cOXGnQdPXok572BWtE+zZqtqXZIX7dOs2apal+RF+zRrtqrWJXnRPs2arap1SV60T7Nmq2pdklfydqn2atZsVa1L8qLvoKzZqlqX5EXfQVmzVbUuyYu+g7Jmq2pdkhd9B0X7q/r/+z9nFe0bgmeJ9FfmN/h9u4TOEuiv1F1LsNcj/ZW6a/kJniXQX6m7lmCvR/YMqbuWWvAs3+X/wtRdSy14lsD7JXPXcoueJfB+ydy1/GZGzvIPlCpwHw==
+  </data>
+ </layer>
+ <layer name="圖塊層 2" width="50" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt00tOwzAURmF3N7RNokyBIgG24yyNdfT9mhS/tscREiISSOABLpH8S9/sTs7gClFWVlZWVlZWVlZWVjaevSx+Nob9547LUohXWDh4BMTl19u/6Hi6mYhnSChodDDo8euOFR2wcPAIiKtMHVM6IKGg0cGgnyZ0rOmAhYNHQFxn6pjRAQkFjQ4G/SyhY0MHLBw8AuImU8ecDkgoaHQw6OcJHVs6YOHgERC3mToqOiChoKtBR5XQsaMDFg4eAXGXqaOmAxIKuh501Akdezpg4eAREPeZOho6IKGgm0FHk9BxoAMWDh4B8ZCn47adiDvcY4GH9rPjsU3oONIBCwePgHjM0/HdPjpSdjnRAQsHj4B4umIHf2ESfuO940wHLBw8AuL5ih38hUn4jTHuDSCr4K8=
+  </data>
+ </layer>
+ <layer name="圖塊層 3" width="50" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt2MlOwzAURuHsYjO1gFoWndiS4YkzdUuHd+RYdjZwQTggdAH/0ierUhY5stRFZvMsy18xsLgQfl/iCte4wQxz3OIO9z9Aegfnty916Frq0LXUoWupQ9dSh66lDl1LHbqWOnQtdeha6tC1/97xtJimQIkKNbo8y3oM2H/C+Nx3dTwvPOndYjS5rM3fNj6a9/sm38fScy0HHHHCOdLKyNbYYIudCQ3hlEy+j6XnWgqUqFBHaoysRYcew9hg/SmZfB8Pnms54IgTzpFWVrbGBlvsbGgIp+Sr/1eupUCJCnWkxspadOgxhIaPjB1/4Tv1C8l4cXw=
+  </data>
+ </layer>
+ <layer name="圖塊層 4" width="50" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20IX6AAAAAAAIDXABdwAAE=
+  </data>
+ </layer>
+ <layer name="圖塊層 5" width="50" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20IX6AAAAAAAIDXABdwAAE=
+  </data>
+ </layer>
+</map>

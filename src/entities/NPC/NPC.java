@@ -41,10 +41,10 @@ public class NPC extends Entity {
 			e.printStackTrace();
 		}
 		 speech = new  ArrayList<String>();
-		 speech.add("1肥宅:吃我的超猛超威猛帥氣盾");
-		 speech.add("0褚斯:不要!");
-		 speech.add("1肥宅:甚麼!!你敢不吃");
-		 speech.add("0褚斯:怕.JPG");
+		 speech.add("1NPC:HELLO WORLD!");
+		 speech.add("0褚斯:I am Programmer,I have no life.");
+		 speech.add("0褚斯:我準備好了");
+		 speech.add("1NPC:那我們可以開始了");	 
 	}
 
 	@Override

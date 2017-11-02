@@ -1,7 +1,7 @@
 package BasicGame;
 
 public class window {
-	public static final String gamename = "test";
+	public static final String gamename = "INFINITY";
 
 	public static int WIDTH = 800;//800
 	public static int HEIGHT = 600;//600

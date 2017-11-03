@@ -22,7 +22,7 @@ If this project is helpful to you.Please let me know and I will be happy with it
 ---
 <img src="https://github.com/vn7n24fzkq/INFINITY/blob/master/demo/jump.gif" width="600" height="450">
 
-<br>debbug mode</br>
+<br>debug mode</br>
 ---
 <img src="https://github.com/vn7n24fzkq/INFINITY/blob/master/demo/debbug%20mode.gif" width="600" height="450">
 
